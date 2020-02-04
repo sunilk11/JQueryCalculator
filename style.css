@@ -1,0 +1,23 @@
+html,body{
+  background-color: #a7d1a3;
+}
+
+.calcOutput{
+  background-color: white;
+  margin-right: auto;
+  margin-left: auto;
+  width:250px
+}
+#steps{
+  padding: 20px;
+  font-size: 2em;
+}
+
+#calcoutput{
+  background-color: #dff595;
+   margin-right: auto;
+  margin-left: auto;
+  width: 250px;
+  padding: 20px;
+  
+}
